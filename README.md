@@ -1,5 +1,5 @@
 - I’m @CamGreg Controls Designer at Industrial Plankton 
-- I manage and develop everything from microcontrollers and PLCs up to HMI's, and had a breif interlude creating a ERP system.
+- I manage and develop everything from microcontrollers and PLCs up to HMI's, and had a brief interlude creating a ERP system.
 - You can reach me at controls@industrialplankton.com
 
 <!---
